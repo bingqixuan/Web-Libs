@@ -5,6 +5,8 @@
 ## 界面
 1. 弹幕插件  scroxt.js
 2. [自适应可拖拽网格视图]( https://github.com/haltu/muuri)
+3. [瀑布流布局](https://github.com/jlmakes/scrollreveal)
+4. [魔幻动画库](https://github.com/legomushroom/mojs)
 
 
 ## 调试工具
