@@ -7,6 +7,8 @@
 2. [自适应可拖拽网格视图]( https://github.com/haltu/muuri)
 3. [瀑布流布局](https://github.com/jlmakes/scrollreveal)
 4. [魔幻动画库](https://github.com/legomushroom/mojs)
+5. [Popmotion:又是一个动画库，比较小](https://github.com/Popmotion/popmotion)
+6. [anime:动画引擎，star多](https://github.com/juliangarnier/anime)
 
 
 ## 调试工具
