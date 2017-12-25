@@ -16,3 +16,4 @@
 
 ## 网站原型
 1. [网站后台](https://github.com/cristijora/vue-light-bootstrap-dashboard)
+2. [基于vue2.0 +vuex+ element-ui金融后台管理系统](https://github.com/wdlhao/vue2-element-touzi-admin)	
