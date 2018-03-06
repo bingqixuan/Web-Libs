@@ -10,6 +10,7 @@
 5. [Popmotion:又是一个动画库，比较小](https://github.com/Popmotion/popmotion)
 6. [anime:动画引擎，star多](https://github.com/juliangarnier/anime)
 7. [炫酷的UI参数调节面板](https://github.com/baku89/ui-study)(演示地址：http://s.baku89.com/ui/)
+8. [可以用鼠标画简单的svg图形](https://github.com/svgdotjs/svg.draw.js)
 
 
 ## 调试工具
