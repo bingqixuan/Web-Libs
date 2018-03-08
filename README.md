@@ -12,6 +12,10 @@
 7. [炫酷的UI参数调节面板](https://github.com/baku89/ui-study)(演示地址：http://s.baku89.com/ui/)
 8. [可以用鼠标画简单的svg图形](https://github.com/svgdotjs/svg.draw.js)
 
+## 可视化
+1. [画图板](https://github.com/dli/paint)
+2. [基于threejs的可拖拽路径](https://github.com/zz85/threejs-path-flow)
+
 
 ## 调试工具
 1. [REST接口测试工具](https://github.com/getinsomnia/insomnia)
