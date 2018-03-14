@@ -18,6 +18,7 @@
 3. [d3与threejs的结合](http://projects.delimited.io/experiments/d3-threejs/)
 4. [用手绘、素描、外观创造图形](https://github.com/pshihn/rough)
 5. [基于threejs实时路径跟踪与全局照明和渐进式渲染](https://github.com/erichlof/THREE.js-PathTracing-Renderer)
+6. [3D粒子效果](https://github.com/jackrugile/3d-particle-explorations)
 
 
 ## 调试工具
