@@ -24,6 +24,7 @@
 
 ## 调试工具
 1. [REST接口测试工具](https://github.com/getinsomnia/insomnia)
+2. [nodejs日志输出高亮工具](https://github.com/klauscfhq/signale)
 
 ## 网站原型
 1. [网站后台](https://github.com/cristijora/vue-light-bootstrap-dashboard)
