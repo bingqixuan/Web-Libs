@@ -33,4 +33,8 @@
 4. [一款基于Vue 全家桶制作的移动端音乐 WebApp](https://github.com/CaiJinyc/vue-music-webapp)
 
 ## 框架
-1. [一套Vue代码,两端原生应用](https://github.com/bmfe/eros)
+1. [一套Vue代码,移动端原生应用](https://github.com/bmfe/eros)
+2. [Vuido：利用vuejs开发桌面端应用](https://github.com/mimecorg/vuido)
+
+##功能性
+1. [Hotkeys：捕获键盘输入的库](https://github.com/jaywcjlove/hotkeys)
