@@ -40,3 +40,4 @@
 ##功能性
 1. [Hotkeys：捕获键盘输入的库](https://github.com/jaywcjlove/hotkeys)
 2. [dayjs：小型日期库，可代替Moment.js](https://github.com/iamkun/dayjs)
+3. [fast-copy：快速的对象深度拷贝库](https://github.com/planttheidea/fast-copy)
