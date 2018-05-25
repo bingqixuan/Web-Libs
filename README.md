@@ -11,6 +11,7 @@
 6. [anime:动画引擎，star多](https://github.com/juliangarnier/anime)
 7. [炫酷的UI参数调节面板](https://github.com/baku89/ui-study)(演示地址：http://s.baku89.com/ui/)
 8. [可以用鼠标画简单的svg图形](https://github.com/svgdotjs/svg.draw.js)
+9. [wired-elements：手绘风格的界面UI](https://github.com/wiredjs/wired-elements)
 
 ## 可视化
 1. [画图板](https://github.com/dli/paint)
