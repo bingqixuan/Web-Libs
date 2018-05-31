@@ -33,11 +33,13 @@
 2. [基于vue2.0 +vuex+ element-ui金融后台管理系统](https://github.com/wdlhao/vue2-element-touzi-admin)	
 3. [移动端美团外卖vue+mongodb+node](https://github.com/zwStar/vue-meituan)
 4. [一款基于Vue 全家桶制作的移动端音乐 WebApp](https://github.com/CaiJinyc/vue-music-webapp)
+5. [vue-element-admin：后台集成解决方案，它基于 Vue.js 和 element。](https://github.com/PanJiaChen/vue-element-admin)
 
 ## 框架
 1. [一套Vue代码,移动端原生应用](https://github.com/bmfe/eros)
 2. [Vuido：利用vuejs开发桌面端应用](https://github.com/mimecorg/vuido)
 3. [TSW:是一套面向WEB前端开发者，以提升问题定位效率为初衷，提供染色抓包、全息日志和异常发现的Node.js基础设施](https://github.com/Tencent/TSW)
+4. [TouchUI：高质量移动端UI框架。](https://github.com/uileader/touchui)
 
 ##功能性
 1. [Hotkeys：捕获键盘输入的库](https://github.com/jaywcjlove/hotkeys)
