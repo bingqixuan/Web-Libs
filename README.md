@@ -22,6 +22,7 @@
 5. [基于threejs实时路径跟踪与全局照明和渐进式渲染](https://github.com/erichlof/THREE.js-PathTracing-Renderer)
 6. [3D粒子效果](https://github.com/jackrugile/3d-particle-explorations)
 7. [webgl流体仿真](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
+8. [G6:JavaScript 图可视化引擎.](https://github.com/antvis/g6)
 
 
 ## 调试工具
@@ -46,3 +47,4 @@
 2. [dayjs：小型日期库，可代替Moment.js](https://github.com/iamkun/dayjs)
 3. [fast-copy：快速的对象深度拷贝库](https://github.com/planttheidea/fast-copy)
 4. [ua-device：一个用于解析UA来得到用户终端信息的JS库](https://github.com/fex-team/ua-device)
+5. [iconv-lite：转换字符编码的纯javascript库](https://github.com/ashtuchkin/iconv-lite)
