@@ -13,6 +13,7 @@
 8. [可以用鼠标画简单的svg图形](https://github.com/svgdotjs/svg.draw.js)
 9. [wired-elements：手绘风格的界面UI](https://github.com/wiredjs/wired-elements)
 10.[clipboard.js：复制内容到粘贴板](https://github.com/zenorocha/clipboard.js)
+11.[flubber:平滑过渡的形状动画](https://github.com/veltman/flubber)
 
 ## 可视化
 1. [画图板](https://github.com/dli/paint)
