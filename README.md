@@ -15,6 +15,7 @@
 10.[clipboard.js：复制内容到粘贴板](https://github.com/zenorocha/clipboard.js)
 11.[flubber:平滑过渡的形状动画](https://github.com/veltman/flubber)
 12.[Intro.js:为网站和特性提供更好的介绍，并为您的项目提供一步一步的指导](https://github.com/usablica/intro.js)
+13.[时间轴控件](https://github.com/idflood/TweenTime)
 
 ## 可视化
 1. [画图板](https://github.com/dli/paint)
