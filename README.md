@@ -46,7 +46,7 @@
 3. [TSW:是一套面向WEB前端开发者，以提升问题定位效率为初衷，提供染色抓包、全息日志和异常发现的Node.js基础设施](https://github.com/Tencent/TSW)
 4. [TouchUI：高质量移动端UI框架。](https://github.com/uileader/touchui)
 
-##功能性
+## 功能性
 1. [Hotkeys：捕获键盘输入的库](https://github.com/jaywcjlove/hotkeys)
 2. [dayjs：小型日期库，可代替Moment.js](https://github.com/iamkun/dayjs)
 3. [fast-copy：快速的对象深度拷贝库](https://github.com/planttheidea/fast-copy)
