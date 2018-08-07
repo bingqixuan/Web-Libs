@@ -16,6 +16,7 @@
 11. [flubber:平滑过渡的形状动画](https://github.com/veltman/flubber)
 12. [Intro.js:为网站和特性提供更好的介绍，并为您的项目提供一步一步的指导](https://github.com/usablica/intro.js)
 13. [时间轴控件](https://github.com/idflood/TweenTime)
+14. [Zeu.js:用于实时可视化的JavaScript库,可用于物联网界面组件](https://github.com/shzlw/zeu)
 
 ## 可视化
 1. [画图板](https://github.com/dli/paint)
