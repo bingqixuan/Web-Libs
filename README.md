@@ -53,3 +53,4 @@
 3. [fast-copy：快速的对象深度拷贝库](https://github.com/planttheidea/fast-copy)
 4. [ua-device：一个用于解析UA来得到用户终端信息的JS库](https://github.com/fex-team/ua-device)
 5. [iconv-lite：转换字符编码的纯javascript库](https://github.com/ashtuchkin/iconv-lite)
+6. [FileSaver.js:在客户端保存文件的解决方案](https://github.com/eligrey/FileSaver.js)
