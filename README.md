@@ -40,6 +40,7 @@
 3. [移动端美团外卖vue+mongodb+node](https://github.com/zwStar/vue-meituan)
 4. [一款基于Vue 全家桶制作的移动端音乐 WebApp](https://github.com/CaiJinyc/vue-music-webapp)
 5. [vue-element-admin：后台集成解决方案，它基于 Vue.js 和 element。](https://github.com/PanJiaChen/vue-element-admin)
+6. [Encom Boardroom: 酷炫的创战纪系统界面](https://github.com/arscan/encom-boardroom)
 
 ## 框架
 1. [一套Vue代码,移动端原生应用](https://github.com/bmfe/eros)
