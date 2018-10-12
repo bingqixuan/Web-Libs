@@ -30,6 +30,7 @@
 8. [G6:JavaScript 图可视化引擎.](https://github.com/antvis/g6)
 9. [giojs:一个用three.j构建的声明式3D地球数据可视化库](https://github.com/syt123450/giojs)
 10. [星空图](https://github.com/gbiobob/ED3D-Galaxy-Map)
+11. [Muze: 使用数据优先的web的数据可视化库]
 
 
 ## 调试工具
