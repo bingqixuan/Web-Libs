@@ -20,6 +20,7 @@
 15. [F2:移动端图表库](https://github.com/antvis/f2)
 16. [NES.css: 是一款NES-风格(8位机)的CSS框架](https://github.com/nostalgic-css/NES.css)
 17. [KUTE.js: 一个完全成熟的原生JavaScript动画引擎，具有最基本的功能](https://github.com/thednp/kute.js)
+18. [moveable: 可让div拖拽、缩放、旋转](https://github.com/daybrush/moveable)
 
 
 ## 可视化
