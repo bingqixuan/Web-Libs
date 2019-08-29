@@ -64,3 +64,4 @@
 5. [iconv-lite：转换字符编码的纯javascript库](https://github.com/ashtuchkin/iconv-lite)
 6. [FileSaver.js:在客户端保存文件的解决方案](https://github.com/eligrey/FileSaver.js)
 7. [把画布元素加上毛刺](https://github.com/snorpey/glitch-canvas)
+8. [binarize.js: 可将任何变量，数组或对象转换为二进制格式](https://github.com/agektmr/binarize.js)
