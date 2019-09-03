@@ -21,6 +21,7 @@
 16. [NES.css: 是一款NES-风格(8位机)的CSS框架](https://github.com/nostalgic-css/NES.css)
 17. [KUTE.js: 一个完全成熟的原生JavaScript动画引擎，具有最基本的功能](https://github.com/thednp/kute.js)
 18. [moveable: 可让div拖拽、缩放、旋转](https://github.com/daybrush/moveable)
+19. [快速简单地创建全屏页面](https://github.com/alvarotrigo/fullPage.js)
 
 
 ## 可视化
