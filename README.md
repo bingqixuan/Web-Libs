@@ -37,6 +37,7 @@
 11. [Muze: 使用数据优先的web的数据可视化库]
 12. [魔幻线条](https://github.com/AlloyTeam/curvejs)
 13. [艺术字体](https://github.com/cmiscm/leonsans)
+14. [web版表格](https://github.com/myliang/x-spreadsheet)
 
 
 ## 调试工具
@@ -57,6 +58,7 @@
 2. [Vuido：利用vuejs开发桌面端应用](https://github.com/mimecorg/vuido)
 3. [TSW:是一套面向WEB前端开发者，以提升问题定位效率为初衷，提供染色抓包、全息日志和异常发现的Node.js基础设施](https://github.com/Tencent/TSW)
 4. [TouchUI：高质量移动端UI框架。](https://github.com/uileader/touchui)
+5. [UI Kit: 是一个响应式Bootstrap 4套件](https://github.com/creativetimofficial/now-ui-kit)
 
 ## 功能性
 1. [Hotkeys：捕获键盘输入的库](https://github.com/jaywcjlove/hotkeys)
